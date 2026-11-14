@@ -1,0 +1,21 @@
+{
+  "name": "LAB-8-T-N-C-LONG-PA00508",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "cross-env http_proxy= https_proxy= HTTP_PROXY= HTTPS_PROXY= nuxt dev",
+    "build": "cross-env http_proxy= https_proxy= HTTP_PROXY= HTTPS_PROXY= nuxt build",
+    "generate": "cross-env http_proxy= https_proxy= HTTP_PROXY= HTTPS_PROXY= nuxt generate",
+    "preview": "cross-env http_proxy= https_proxy= HTTP_PROXY= HTTPS_PROXY= nuxt preview",
+    "postinstall": "cross-env http_proxy= https_proxy= HTTP_PROXY= HTTPS_PROXY= nuxt prepare"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "nuxt": "^4.6.4",
+    "vue": "^3.5.45",
+    "vue-router": "^5.4.0"
+  },
+  "devDependencies": {
+    "cross-env": "^10.1.0"
+  }
+}
