@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "email": "hoangson@gmail.com",
+      "password": "$2a$10$3LFfsBr937QLWiQEkPOC6OUbC26llofuokBD8Mdt1WDMKFBTShkCK",
+      "username": "hoangson",
+      "id": 1
+    },
+    {
+      "email": "hson97805@gmail.com",
+      "password": "$2a$10$cTk0gBOcwCK3x4sCXR4Hpe0fsQvmSnyMzNfs6cMyfS7238AZjWsGG",
+      "username": "ih8ieiw4eihriho",
+      "id": 2
+    },
+    {
+      "email": "tonduclong1@gmail.com",
+      "password": "$2a$10$gXN9Y/Zvtt6Umq04LXdfAuXZM.2/EDFZbb9n8aE669ys2UQnKNiPi",
+      "username": "tonduclong",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro Max",
+      "price": 34990000,
+      "description": "Điện thoại Apple iPhone 15 Pro Max 256GB",
+      "category": "Điện thoại",
+      "quantity": 50,
+      "imageUrl": "https://via.placeholder.com/300x200?text=iPhone+15"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": 31990000,
+      "description": "Điện thoại Samsung Galaxy S24 Ultra 256GB",
+      "category": "Điện thoại",
+      "quantity": 30,
+      "imageUrl": "https://via.placeholder.com/300x200?text=Samsung+S24"
+    },
+    {
+      "id": 3,
+      "name": "MacBook Pro M3",
+      "price": 49990000,
+      "description": "Laptop Apple MacBook Pro M3 14 inch",
+      "category": "Laptop",
+      "quantity": 20,
+      "imageUrl": "https://via.placeholder.com/300x200?text=MacBook+M3"
+    }
+  ]
+}
